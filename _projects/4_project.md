@@ -2,7 +2,6 @@
 layout: page
 title: Temporal Networks
 description: Interaction-driven modeling of evolving networks and epidemic spreading.
-img: assets/img/research_temporal.jpg
 importance: 4
 category: research
 related_publications: true

@@ -2,7 +2,6 @@
 layout: page
 title: Learning via Surprisability
 description: Surprise as signal — toward interpretable machine learning.
-img: assets/img/research_lvs.jpg
 importance: 2
 category: research
 related_publications: true

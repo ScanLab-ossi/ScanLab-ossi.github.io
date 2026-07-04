@@ -2,7 +2,6 @@
 layout: page
 title: Human–AI Teaming
 description: Collaboration, creativity, decision-making, and ethical design in human–AI teams.
-img: assets/img/research_hait.jpg
 importance: 1
 category: research
 related_publications: true

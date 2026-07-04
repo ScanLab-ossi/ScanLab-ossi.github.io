@@ -2,7 +2,6 @@
 layout: page
 title: Computational Human Behavior Modeling
 description: Modeling human cognition and emotion through computational analysis of digital behavior.
-img: assets/img/research_chbm.jpg
 importance: 3
 category: research
 related_publications: true
