@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Learning via Surprisability
-description: Surprise as signal — toward interpretable machine learning.
+title: Learning via Surprisability — the power of absence
+description: Treating what is missing as a signal.
 importance: 2
 category: research
 related_publications: true
 ---
 
-Our research explores how machines, like humans, can learn from **surprise**. We developed two related methods — **Latent Personal Analysis (LPA)** and **Learning via Surprisability (LvS)** — built on the principle that the most informative insights often come from what deviates from expectations.
+Machine learning almost always looks for what's present. I built a method that also listens for what's missing. **Learning via Surprisability** (originally Latent Personal/Population Analysis) is an information-theoretic way to represent people and populations in high-dimensional space, grounded in one idea: the absence of an expected feature carries information. It attributes authorship, detects impersonation, and spots outliers in temporal — and even sparse biological (immunology) — data, outperforming unsupervised methods, matching black-box models, and running far more efficiently. I've extended it to visualization and summarization interfaces that make absence perceptible and actionable, and I am building an ERC Advanced proposal around the approach.
 
-Both approaches use *surprisal* to extract meaningful, interpretable representations: LPA uncovers personal signatures within a domain, while LvS extends the idea to dynamic timeline data. Rather than relying on frequency or volume alone, these methods highlight the most surprising features — those that differ sharply from what is expected — allowing us to detect anomalies, shifts, and distinctive patterns. Applied across domains from cybersecurity to historical text analysis, this approach advances interpretable machine learning by aligning it more closely with the cognitive processes of attention and learning.
-
-Representative work includes interpretable timeline analysis via surprisability {% cite mokryn2025interpretable %} and domain-based Latent Personal Analysis for impersonation detection {% cite mokryn2021domain %}.
+Selected work: interpretable timeline analysis via surprisability {% cite mokryn2025interpretable %}; domain-based Latent Personal Analysis for impersonation detection {% cite mokryn2021domain %}; and LPA applied to B-cell clone diversity in immunology {% cite alon2021bcell %}.

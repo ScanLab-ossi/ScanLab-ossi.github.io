@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Computational Human Behavior Modeling
-description: Modeling human cognition and emotion through computational analysis of digital behavior.
+title: Computational Human Behavior
+description: Reading people — emotion, cognition, and identity — from digital traces.
 importance: 3
 category: research
 related_publications: true
 ---
 
-I develop computational methods for modeling human **cognition, emotion, and behavior** in digital environments. My work extracts cognitive and emotional signals from real-world behavioral data such as online interactions, reviews, and activity traces.
+People leave rich traces in the language they write and the interactions they choose, and those traces reveal who they are and how they behave. I develop computational methods that read these signals: modeling individuals and populations from sparse, high-dimensional behavioral data, extracting emotion and cognition from user-generated content, identifying authors from their linguistic fingerprints, and tracing how reputation and influence take shape in social media. This connects user modeling and recommendation with information-theoretic representation — a principled way to characterize human behavior, and to catch the subtle shifts that mark a change in a person or a community.
 
-By designing new algorithms for emotion mining, behavioral modeling, unsupervised structure discovery, and cognitive signal detection, I aim to uncover the latent patterns that shape human experiences in digital contexts. These methods support a deeper understanding of user behavior and inform applications in personalization, recommendation, human-centered AI, and decision support.
-
-Representative work includes determining films' evoked emotional experience from online reviews {% cite mokryn2020sharing %}, the Movie Emotion Map {% cite cohenkalaf2022movie %}, emotion diversification in recommender systems {% cite lansman2025emotion %}, and cross-platform analysis of review usefulness {% cite mokryn2020opinions %}.
+Selected work: determining films' evoked emotional experience from online reviews {% cite mokryn2020sharing %}; the Movie Emotion Map {% cite cohenkalaf2022movie %}; cross-platform analysis of review usefulness {% cite mokryn2020opinions %}; and inferring purchase intent from anonymous sessions {% cite mokryn2019session %}.
