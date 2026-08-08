@@ -5,7 +5,7 @@
     "image": "",
     "email": "omokryn@is.haifa.ac.il",
     "url": "https://ossimokryn.com",
-    "summary": "I study what's missing. My research treats the absence of expected signals as information — an information-theoretic approach (Learning via Surprisability) for representing people and populations, detecting anomalies, and making the unseen visible. I also study how generative AI reshapes human creativity and teamwork, and how the timing of real-world interactions drives contagion and collective behavior. Director of the Social, AI & Networks (SCAN) Lab; Chair of the ACM IUI Steering Committee.",
+    "summary": "I study what's missing. My research treats the absence of expected signals as information — an information-theoretic approach (Learning via Surprisability) for representing people and populations, detecting anomalies, and making the unseen visible. I also study how generative AI reshapes human creativity and teamwork, and how the timing of real-world interactions drives contagion and collective behavior. Chair of the ACM IUI Steering Committee.",
     "location": { "city": "Haifa", "countryCode": "IL", "region": "Israel" },
     "profiles": [
       { "network": "Google Scholar", "username": "Osnat Mokryn", "url": "https://scholar.google.com/citations?user=Z00Vbc4AAAAJ&hl=en" },
@@ -19,7 +19,7 @@
       "position": "Associate Professor, Department of Information Systems",
       "url": "https://www.haifa.ac.il/?lang=en",
       "startDate": "2021-01-01",
-      "summary": "Director, Social, AI & Networks (SCAN) Lab. Chair, M.Sc. program in Human–Computer Interaction.",
+      "summary": "Leads a research group on human–AI teaming, learning via surprisability, and temporal networks. Chair, M.Sc. program in Human–Computer Interaction.",
       "highlights": [
         "PI, Israel Science Foundation grant on the effect of external events on social-network structure",
         "General Motors Global R&D research grants; national data-science and AI initiative grants",

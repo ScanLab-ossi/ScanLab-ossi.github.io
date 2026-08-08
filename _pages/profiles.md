@@ -2,36 +2,16 @@
 layout: page
 permalink: /people/
 title: lab
-description: The Social, AI &amp; Networks (SCAN) Lab at the University of Haifa.
+description: The research group of Osnat (Ossi) Mokryn at the University of Haifa.
 nav: true
 nav_order: 1
 ---
 
-<div class="scan-lab-intro">
-  <img src="{{ '/assets/img/scan-logo.png' | relative_url }}" alt="SCAN Lab logo" class="scan-logo" />
-  <p markdown="1">The **Social, AI, and Networks (SCAN) Lab** studies human–AI teaming, learning via surprisability, computational human behavior modeling, and temporal networks. We release [code and data](https://github.com/ScanLab-ossi) for most of our projects.</p>
-</div>
+My research group studies human–AI teaming, learning via surprisability, computational human behavior modeling, and temporal networks. We release [code and data](https://github.com/ScanLab-ossi) for most of our projects.
 
 **Prospective students:** I welcome M.Sc. and Ph.D. students interested in human-centered AI, interpretable machine learning, and network science. Please email me with your CV and research interests.
 
 <style>
-  .scan-lab-intro {
-    display: flex;
-    align-items: center;
-    gap: 1.5rem;
-    margin: 0 0 1.5rem;
-    flex-wrap: wrap;
-  }
-  .scan-lab-intro .scan-logo {
-    width: 130px;
-    height: auto;
-    flex-shrink: 0;
-  }
-  .scan-lab-intro p { flex: 1 1 320px; margin: 0; }
-  @media (max-width: 575.98px) {
-    .scan-lab-intro { justify-content: center; text-align: left; }
-    .scan-lab-intro .scan-logo { width: 110px; }
-  }
   .people-list { margin: 0.5rem 0 2rem; }
   .person {
     display: grid;

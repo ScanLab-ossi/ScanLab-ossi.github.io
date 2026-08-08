@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Associate Professor, Department of Information Systems, <a href="https://www.haifa.ac.il/?lang=en">University of Haifa</a>. Director, Social, AI &amp; Networks (SCAN) Lab.
+subtitle: Associate Professor, Department of Information Systems, <a href="https://www.haifa.ac.il/?lang=en">University of Haifa</a>. Chair, ACM IUI Steering Committee.
 
 profile:
   align: right
