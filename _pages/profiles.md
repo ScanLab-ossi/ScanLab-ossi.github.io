@@ -49,37 +49,42 @@ The **Social, AI, and Networks (SCAN) Lab** studies human–AI teaming, learning
   <div class="person">
     <span class="name">Hagit Ben-Shoshan</span>
     <span class="role">Ph.D.</span>
-    <span class="topic">Visualizing the Unexpected</span>
+    <span class="topic">Visualizing the Unexpected: Decision Support in High-Dimensional Data with Learning via Surprisal</span>
   </div>
   <div class="person">
     <span class="name">Eran Fainman</span>
     <span class="role">Ph.D.</span>
-    <span class="topic">AI agency in the human–AI decision-making process <span class="note">(co-advised with Dr. Adir Solomon)</span></span>
-  </div>
-  <div class="person">
-    <span class="name">Roi Alfassi</span>
-    <span class="role">Research Assistant</span>
-    <span class="topic">Human–AI decision-making under stress</span>
+    <span class="topic">Facilitating GenAI in Next Point of Interest Recommendations <span class="note">(co-advised with Dr. Adir Solomon)</span></span>
   </div>
   <div class="person">
     <span class="name">Mohammed Kashkoush</span>
     <span class="role">Ph.D.</span>
-    <span class="topic">Emotions in human–AI decision-making</span>
+    <span class="topic">From Surveys to Scale: Identification, Narrative Transportation, and Their Emotional Connections in Movie Reviews <span class="note">(co-advised with Prof. Jonathan Cohen, Communication Department)</span></span>
   </div>
   <div class="person">
     <span class="name">Michal Shaharabani</span>
     <span class="role">M.Sc.</span>
-    <span class="topic">Perceptions of trust in crowd-voting systems</span>
+    <span class="topic">Trust in Crowdsourced Fact-Checking: The Case of Community Notes in X <span class="note">(co-advised with Prof. Irit Hadar)</span></span>
   </div>
   <div class="person">
     <span class="name">Barak Ben Ishay</span>
     <span class="role">M.Sc.</span>
-    <span class="topic">Human–AI decision-making under stress</span>
+    <span class="topic">Situational-Awareness-Based Transparency for Effective Communication in Human–AI Teaming Scenarios</span>
   </div>
   <div class="person">
-    <span class="name">Kawthar Abu Esmail</span>
+    <span class="name">Kawthar Abu Ismail</span>
     <span class="role">M.Sc.</span>
-    <span class="topic">What is Absent in Manipulation Attacks</span>
+    <span class="topic">The Role of Absences in Online Manipulation Attacks</span>
+  </div>
+  <div class="person">
+    <span class="name">Naden Jaraisy</span>
+    <span class="role">M.Sc.</span>
+    <span class="topic">Longitudinal Trust in Human–Artificial Intelligence Systems <span class="note">(co-advised with Prof. Pnina Sofer)</span></span>
+  </div>
+  <div class="person">
+    <span class="name">Hanan Hagazi</span>
+    <span class="role">M.Sc.</span>
+    <span class="topic">Participatory Design of Medical Dashboards Using Longitudinal HMO Data Across Diverse Communities in Israel</span>
   </div>
 </div>
 
@@ -120,5 +125,35 @@ The **Social, AI, and Networks (SCAN) Lab** studies human–AI teaming, learning
     <span class="name">Yossi Solomon</span>
     <span class="role">M.Sc.</span>
     <span class="topic">SDNSandbox: enabling innovation in provider networks</span>
+  </div>
+  <div class="person">
+    <span class="name">Roi Alfassi</span>
+    <span class="role">M.Sc.</span>
+    <span class="topic">Fanfiction Community's Perceptions and Attitudes Towards the Integration of AI and Large Language Models in Creative Writing and Storytelling <span class="note">(co-advised with Prof. Orit Shaer, Wellesley College)</span></span>
+  </div>
+  <div class="person">
+    <span class="name">Veronica Bogina</span>
+    <span class="role">M.Sc.</span>
+    <span class="topic">Using Implicit Feedback in E-Commerce Sessions for Purchase Prediction <span class="note">(co-advised with Prof. Tsvi Kuflik)</span></span>
+  </div>
+  <div class="person">
+    <span class="name">Yaakov Danone</span>
+    <span class="role">M.Sc.</span>
+    <span class="topic">Understanding Aspects Comparisons from Social Media <span class="note">(co-advised with Prof. Tsvi Kuflik)</span></span>
+  </div>
+  <div class="person">
+    <span class="name">Nadeem Bader</span>
+    <span class="role">M.Sc.</span>
+    <span class="topic">Exploring Emotions in Online Movie Reviews</span>
+  </div>
+  <div class="person">
+    <span class="name">Samer Amaar</span>
+    <span class="role">M.Sc.</span>
+    <span class="topic">Detecting Events in Social Media <span class="note">(co-advised with Dr. David Bodoff)</span></span>
+  </div>
+  <div class="person">
+    <span class="name">Avihai Grinvald</span>
+    <span class="role">M.Sc.</span>
+    <span class="topic">Leveraging Simultaneous Processes Data for Process Mining Prediction <span class="note">(co-advised with Prof. Pnina Sofer)</span></span>
   </div>
 </div>

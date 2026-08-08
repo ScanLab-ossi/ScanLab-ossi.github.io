@@ -58,10 +58,5 @@
     { "institution": "Hebrew University of Jerusalem", "area": "Computer Science", "studyType": "Ph.D.", "startDate": "1999-01-01", "endDate": "2004-01-01" },
     { "institution": "Technion — Israel Institute of Technology", "area": "Electrical Engineering", "studyType": "M.Sc.", "startDate": "1996-01-01", "endDate": "1998-01-01" },
     { "institution": "Technion — Israel Institute of Technology", "area": "Computer Engineering", "studyType": "B.Sc.", "startDate": "1989-01-01", "endDate": "1993-01-01" }
-  ],
-  "awards": [
-    { "title": "Best Research Paper Award", "date": "2022", "awarder": "Israel Association for Information Systems (ILAIS)", "summary": "For 'Sharing emotions: determining films' evoked emotional experience from their online reviews.'" },
-    { "title": "Andrew & Erna Finci Viterbi Postdoctoral Fellowship for Excellence in Research", "date": "2006", "awarder": "Technion" },
-    { "title": "Checkpoint Fellowship for Excellence in Research", "date": "2001", "awarder": "Technion / Checkpoint" }
   ]
 }
