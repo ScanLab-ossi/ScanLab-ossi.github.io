@@ -62,19 +62,24 @@ The **Social, AI, and Networks (SCAN) Lab** studies human–AI teaming, learning
     <span class="topic">Human–AI decision-making under stress</span>
   </div>
   <div class="person">
-    <span class="name">Lanna Labai</span>
-    <span class="role">M.Sc.</span>
-    <span class="topic">Human–AI decision-making under stress</span>
-  </div>
-  <div class="person">
     <span class="name">Mohammed Kashkoush</span>
-    <span class="role">M.Sc.</span>
+    <span class="role">Ph.D.</span>
     <span class="topic">Emotions in human–AI decision-making</span>
   </div>
   <div class="person">
     <span class="name">Michal Shaharabani</span>
     <span class="role">M.Sc.</span>
     <span class="topic">Perceptions of trust in crowd-voting systems</span>
+  </div>
+  <div class="person">
+    <span class="name">Barak Ben Ishay</span>
+    <span class="role">M.Sc.</span>
+    <span class="topic">Human–AI decision-making under stress</span>
+  </div>
+  <div class="person">
+    <span class="name">Kawthar Abu Esmail</span>
+    <span class="role">M.Sc.</span>
+    <span class="topic">What is Absent in Manipulation Attacks</span>
   </div>
 </div>
 
