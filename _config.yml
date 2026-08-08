@@ -16,7 +16,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: Osnat Mokryn, Ossi Mokryn, human-AI teaming, intelligent user interfaces, surprisability, temporal networks, computational social science, University of Haifa
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://ossimokryn.com
 baseurl: ""
