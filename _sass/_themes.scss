@@ -267,14 +267,14 @@ body table:not(.table) th {
    large. Scale to 60% and keep it flush with the right-floated column. */
 
 body .profile img {
-  width: 60%;
+  width: 42%;
   display: block;
   margin-left: auto;
 }
 
 @media (max-width: 575.98px) {
   body .profile img {
-    width: 55%;
+    width: 45%;
     margin-right: auto;
   }
 }
