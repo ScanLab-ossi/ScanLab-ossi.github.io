@@ -266,16 +266,27 @@ body table:not(.table) th {
 /* Profile photo: the theme sets .profile img to full column width, which is too
    large. Scale to 60% and keep it flush with the right-floated column. */
 
-body .profile img {
-  width: 42%;
-  display: block;
-  margin-left: auto;
+/* !important is deliberate. The theme sets `.profile img { width: 100% }` and a
+   plain `body .profile img` override did not take effect in practice, so this
+   forces it. Also constrained in px in case a wrapper sets its own width. */
+
+body .profile img,
+body .profile picture img,
+body .profile figure img {
+  width: 42% !important;
+  max-width: 130px !important;
+  height: auto !important;
+  display: block !important;
+  margin-left: auto !important;
 }
 
 @media (max-width: 575.98px) {
-  body .profile img {
-    width: 45%;
-    margin-right: auto;
+  body .profile img,
+  body .profile picture img,
+  body .profile figure img {
+    width: 45% !important;
+    max-width: 150px !important;
+    margin-right: auto !important;
   }
 }
 
