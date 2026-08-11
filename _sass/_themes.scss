@@ -213,76 +213,93 @@ html[data-theme-setting="light"] {
 }
 
 /*******************************************************************************
- * Local softening: rounded corners and more generous spacing.
- * Added to lighten the default al-folio look (pure black text, square corners).
- * Remove this block to return to the theme defaults.
+ * Local overrides.
+ *
+ * IMPORTANT: the gem's assets/css/main.scss does `@use "themes"` BEFORE layout,
+ * typography, components, publications, etc. Anything here is therefore emitted
+ * FIRST, and loses to a later rule of equal specificity. Every override below is
+ * prefixed with `body` (or `html body`) to raise specificity so it wins on merit
+ * rather than on source order. Keep that prefix when adding rules.
+ *
+ * Delete this whole block to return to the theme defaults.
  ******************************************************************************/
 
-body {
+html body,
+html body p {
   line-height: 1.75;
 }
 
-p {
-  line-height: 1.75;
-}
-
-.card,
-.projects .card,
-.cv .card {
+body .card {
   border-radius: 12px;
   overflow: hidden;
 }
 
-.profile img,
-.projects .card img,
-.publications ol.bibliography li .preview img {
+body .profile img,
+body .projects .card img,
+body .publications ol.bibliography li .preview img {
   border-radius: 10px;
 }
 
-.publications ol.bibliography li .abbr abbr {
+body .publications ol.bibliography li .abbr abbr {
   border-radius: 999px;
   padding: 0.15rem 0.6rem;
 }
 
-.publications ol.bibliography li .links a.btn,
-.af-page-link,
-.newsletter-form-input,
-.newsletter-form-button,
-.af-table-search {
+body .publications ol.bibliography li .links a.btn,
+body .af-page-link,
+body .newsletter-form-input,
+body .newsletter-form-button,
+body .af-table-search {
   border-radius: 8px;
 }
 
-blockquote {
+body blockquote {
   border-radius: 0 8px 8px 0;
 }
 
-table:not(.table) td,
-table:not(.table) th {
+body table:not(.table) td,
+body table:not(.table) th {
   padding-top: 0.65rem;
   padding-bottom: 0.65rem;
 }
 
-/* Research cards: the gem renders each project title as an h2, which is far too
-   heavy at card size. Scale it down and tighten the card. */
+/* Profile photo: the theme sets .profile img to full column width, which is too
+   large. Scale to 60% and keep it flush with the right-floated column. */
 
-.projects .card .card-body {
+body .profile img {
+  width: 60%;
+  display: block;
+  margin-left: auto;
+}
+
+@media (max-width: 575.98px) {
+  body .profile img {
+    width: 55%;
+    margin-right: auto;
+  }
+}
+
+/* Research cards: the gem renders each project title as an h2, far too heavy at
+   card size. */
+
+body .projects .card .card-body {
   padding: 1.05rem 1.15rem;
 }
 
-.projects .card .card-title {
+body .projects .card .card-title {
   font-size: 1.15rem;
   font-weight: 600;
   line-height: 1.35;
   margin-bottom: 0.45rem;
 }
 
-.projects .card .card-text {
+body .projects .card .card-text {
   font-size: 0.95rem;
   line-height: 1.6;
   margin-bottom: 0;
   color: var(--global-text-color-light);
 }
 
-.projects .card {
+body .projects .card {
   border: 1px solid var(--global-divider-color);
 }
