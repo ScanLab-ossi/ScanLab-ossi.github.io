@@ -7,10 +7,10 @@ tags: emotions visualization
 categories: announcements
 ---
 
-*Movie emotion map: an interactive tool for exploring movies according to their emotional signature* is published in Advances in Multimedia Interaction and Visualization. Joint work with Joel Lanir and Peter Bak.
+_Movie emotion map: an interactive tool for exploring movies according to their emotional signature_ is published in Advances in Multimedia Interaction and Visualization. Joint work with Joel Lanir and Peter Bak.
 
 **The paper:** <https://rdcu.be/cj5id>
 
 <!-- IMAGES (from Wix): movie emotion map screenshots -->
 
-Cohen-Kalaf, M., Lanir, J., Bak, P. et al. "Movie emotion map: an interactive tool for exploring movies according to their emotional signature." *Multimedia Tools and Applications* (2021). <https://doi.org/10.1007/s11042-021-10803-5>
+Cohen-Kalaf, M., Lanir, J., Bak, P. et al. "Movie emotion map: an interactive tool for exploring movies according to their emotional signature." _Multimedia Tools and Applications_ (2021). <https://doi.org/10.1007/s11042-021-10803-5>

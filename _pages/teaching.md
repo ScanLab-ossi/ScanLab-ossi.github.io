@@ -15,10 +15,10 @@ I design courses as active, discussion-driven spaces. My graduate courses use a 
 
 ## Courses I Designed &amp; Teach
 
-**Ethical Design of AI Sociotechnical Systems with GenAI** *(new course I created)*
+**Ethical Design of AI Sociotechnical Systems with GenAI** _(new course I created)_
 : The ethical design of sociotechnical AI systems, focusing on integrating generative-AI tools into human-computer interaction design. Students examine stakeholder-centered and value-sensitive design and learn to leverage generative AI for ethical, user-centered innovation — through theory, case studies, and a culminating group project.
 
-**Fake News &amp; Manipulation** *(seminar)*
+**Fake News &amp; Manipulation** _(seminar)_
 : The psychological, technological, and social mechanisms behind digital manipulation and disinformation — the role of AI, filter bubbles, influence campaigns, and cognitive biases — developed through critical reading, presentations, and discussion.
 
 **Data Networks**
@@ -37,8 +37,8 @@ Internet Routing &amp; Modeling · Internet Technologies · Information Retrieva
 
 <div class="testimonials">
 
-> *Translated from Hebrew, shared with permission and anonymized. Original messages are on file.*
+> _Translated from Hebrew, shared with permission and anonymized. Original messages are on file._
 
-*Testimonials will appear here as they are added and approved.*
+_Testimonials will appear here as they are added and approved._
 
 </div>

@@ -7,9 +7,9 @@ tags: temporal-networks epidemiology
 categories: research
 ---
 
-The work analyzes the competition among viral strains using our developed temporal interaction-driven contagion model. We consider two and three competing pathogens and show the conditions under which a *slower* pathogen will remain active and create a second wave infecting most of the population.
+The work analyzes the competition among viral strains using our developed temporal interaction-driven contagion model. We consider two and three competing pathogens and show the conditions under which a _slower_ pathogen will remain active and create a second wave infecting most of the population.
 
-We then show that when the *duration* of the encounters is considered, the spreading dynamics change significantly. Our results indicate that when considering airborne diseases, it might be crucial to consider the duration of temporal meetings to model the spread of pathogens in a population.
+We then show that when the _duration_ of the encounters is considered, the spreading dynamics change significantly. Our results indicate that when considering airborne diseases, it might be crucial to consider the duration of temporal meetings to model the spread of pathogens in a population.
 
 The paper can be found here: <https://rdcu.be/cPonP>
 

@@ -15,4 +15,4 @@ Regression analysis for the exact score reveals that apart from the cross-platfo
 
 <img src="{{ '/assets/img/blog/opinions-of-a-few.jpg' | relative_url }}" class="img-fluid rounded" alt="Usefulness of reviews across platforms" />
 
-**Paper:** Osnat Mokryn. "The opinions of a few: A cross-platform study quantifying usefulness of reviews." *Online Social Networks and Media* 18, pp. 1--11 (2020): 100080. ([Link](https://www.sciencedirect.com/science/article/abs/pii/S2468696420300215))
+**Paper:** Osnat Mokryn. "The opinions of a few: A cross-platform study quantifying usefulness of reviews." _Online Social Networks and Media_ 18, pp. 1--11 (2020): 100080. ([Link](https://www.sciencedirect.com/science/article/abs/pii/S2468696420300215))

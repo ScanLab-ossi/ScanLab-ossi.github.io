@@ -9,7 +9,7 @@ categories: research
 
 LPA is an easy-to-use and fast domain-based spectral signature that can be used in a variety of domains and is tailored for big-data computations. It creates a strong and unique signature of both over-used and missing items that identify a user or a component in a domain. It can be used in a variety of domains, from textual to computational.
 
-**Paper:** Mokryn, O., & Ben-Shoshan, H. (2020). "Domain-based Latent Personal Analysis and its use for impersonation detection in social media." Accepted to *User Modeling and User-Adapted Interaction* (UMUAI), May 2021. arXiv:2004.02346. ([PDF](https://arxiv.org/pdf/2004.02346.pdf))
+**Paper:** Mokryn, O., & Ben-Shoshan, H. (2020). "Domain-based Latent Personal Analysis and its use for impersonation detection in social media." Accepted to _User Modeling and User-Adapted Interaction_ (UMUAI), May 2021. arXiv:2004.02346. ([PDF](https://arxiv.org/pdf/2004.02346.pdf))
 
 Zipf's law defines an inverse proportion between a word's ranking in a given corpus and its frequency in it, roughly dividing the vocabulary into frequent (popular) words and infrequent ones. Here, we stipulate that within a domain an author's signature can be derived from, in loose terms, the author's missing popular words and frequently used infrequent words. We devise a method, termed Latent Personal Analysis (LPA), for finding such domain-based personal signatures. LPA determines what words most contributed to the distance between a user's vocabulary and the domain's.
 
@@ -23,8 +23,8 @@ We identify the most suitable distance metric for the method among several and c
 
 LPA is fast and easy to implement at large scale. We deployed it over 4000 IMDb reviewer accounts to find sockpuppet accounts activated by a single author, performing a 4000x4000 similarity measure between all accounts' LPA signatures. The full list of suspected [sockpuppets](https://github.com/hagitbenshoshan/imdb-soakpuppets) is available.
 
-*Example 1:* [User 59775972](https://www.imdb.com/user/ur59775972) (joshuadrake-39480) and [User 62431316](https://www.imdb.com/user/ur62431316) (joshuadrake-91275) have 502 common terms in their LPA signatures, and the distance between their signatures is 0.013.
+_Example 1:_ [User 59775972](https://www.imdb.com/user/ur59775972) (joshuadrake-39480) and [User 62431316](https://www.imdb.com/user/ur62431316) (joshuadrake-91275) have 502 common terms in their LPA signatures, and the distance between their signatures is 0.013.
 
-*Example 2:* [User 24051675](https://www.imdb.com/user/ur24051675) (jpachar82) and [User 53564354](https://www.imdb.com/user/ur53564354) (jasonpachar) have 584 common terms in their LPA signatures, and the distance between their signatures is 0.297.
+_Example 2:_ [User 24051675](https://www.imdb.com/user/ur24051675) (jpachar82) and [User 53564354](https://www.imdb.com/user/ur53564354) (jasonpachar) have 584 common terms in their LPA signatures, and the distance between their signatures is 0.297.
 
 <img src="{{ '/assets/img/blog/lpa-sockpuppets.png' | relative_url }}" class="img-fluid rounded" alt="Two IMDb accounts identified as sockpuppets by their LPA signatures" />

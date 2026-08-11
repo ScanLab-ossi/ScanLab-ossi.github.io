@@ -7,7 +7,7 @@ tags: surprisability authorship impersonation
 categories: research
 ---
 
-Glad to share a [new paper](https://rdcu.be/ctKvM) in *User Modeling and User-Adapted Interaction* (UMUAI) with *Hagit Ben-Shoshan*, describing an exploration method in a complex domain: **Latent Personal Analysis (LPA)**, with uses for user/entity modeling, impersonation detection in social media, music, and biology.
+Glad to share a [new paper](https://rdcu.be/ctKvM) in _User Modeling and User-Adapted Interaction_ (UMUAI) with _Hagit Ben-Shoshan_, describing an exploration method in a complex domain: **Latent Personal Analysis (LPA)**, with uses for user/entity modeling, impersonation detection in social media, music, and biology.
 
 The method creates a domain, and a signature and distance for each entity comprising the domain. In language, within a domain, an author's signature can be derived from, in loose terms, the author's missing popular words and frequently used infrequent words. The distance and the signature are determined by **increased** distance for **missing popular** terms and **decreased** distance for the vast tail of **rare** words missing from the person's vocabulary. Paraphrasing Debussy, style is the silence between the words: personal style is also measured by popular domain words missing from a person's vocabulary.
 
@@ -19,11 +19,11 @@ The method creates a domain, and a signature and distance for each entity compri
 
 For example, a style heatmap of 19th-century writers, comparing books' signature distances to determine similarity.
 
-*Qualitative exploration:* the book Robinson Crusoe was taken as a domain, and each chapter as an entity.
+_Qualitative exploration:_ the book Robinson Crusoe was taken as a domain, and each chapter as an entity.
 
 <img src="{{ '/assets/img/blog/lpa-robinson-crusoe.jpeg' | relative_url }}" class="img-fluid rounded" alt="Robinson Crusoe chapter-level LPA analysis" />
 
-The lower panel shows the most frequent words in the book (not considering stopwords). Interestingly, *God* is one of the principal words in the domain, i.e., in the book. However, in the last chapter, the word *God* appears much less than in the rest of the book, while the word *lough* is much more frequent.
+The lower panel shows the most frequent words in the book (not considering stopwords). Interestingly, _God_ is one of the principal words in the domain, i.e., in the book. However, in the last chapter, the word _God_ appears much less than in the rest of the book, while the word _lough_ is much more frequent.
 
 **Social media user modeling.** LPA can be used for better user modeling. For example, the signatures of two IMDb reviewers form a content-based exploration, exposing preferences as well as less preferred genres.
 

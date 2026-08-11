@@ -11,9 +11,9 @@ categories: research
 
 Can a machine be surprised?
 
-We explore how artificial intelligence can learn not just from data, but from *the unexpected*. Our method, **Learning via Surprisability (LvS)**, teaches AI systems to form expectations and adjust when reality diverges, just as humans do.
+We explore how artificial intelligence can learn not just from data, but from _the unexpected_. Our method, **Learning via Surprisability (LvS)**, teaches AI systems to form expectations and adjust when reality diverges, just as humans do.
 
-[Watch my short talk — *Teaching AI the Power of Surprise*](https://www.youtube.com/watch?v=pwQz6Sw7KLA&t=134s)
+[Watch my short talk — _Teaching AI the Power of Surprise_](https://www.youtube.com/watch?v=pwQz6Sw7KLA&t=134s)
 
 By learning from surprise, AI becomes more efficient, adaptable, and explainable. We've applied LvS to social media, political discourse, and biomedical data, revealing how absence and deviation can be as meaningful as presence.
 

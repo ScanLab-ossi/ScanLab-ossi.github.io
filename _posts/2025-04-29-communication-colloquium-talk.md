@@ -11,7 +11,7 @@ I'm happy to share that next week, I'll be giving a talk at the Department of Co
 
 Being part of the University's Ambassadors Program has been an incredible experience, showing me firsthand the value of connecting with researchers across different fields. These interdisciplinary conversations have truly expanded the way I think and work, and I'm excited to continue that exchange during this event.
 
-**Title:** *From Feelings to Fingerprints: New Approaches to Textual Communication*
+**Title:** _From Feelings to Fingerprints: New Approaches to Textual Communication_
 
 **Abstract:** In this talk, I will present two novel methods for analyzing human online discourse, each offering a new lens for understanding how people express themselves in written communication.
 

@@ -11,4 +11,4 @@ The popularity of nodes changes with time, with nodes losing and regaining popul
 
 <img src="{{ '/assets/img/blog/trends-evolving-networks.png' | relative_url }}" class="img-fluid rounded" alt="Trend comparison matrices across networks" />
 
-**Paper:** Mokryn, Osnat, Allon Wagner, Marcel Blattner, Eytan Ruppin, and Yuval Shavitt. "The role of temporal trends in growing networks." *PLoS ONE* 11, no. 8 (2016): e0156505. ([Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0156505))
+**Paper:** Mokryn, Osnat, Allon Wagner, Marcel Blattner, Eytan Ruppin, and Yuval Shavitt. "The role of temporal trends in growing networks." _PLoS ONE_ 11, no. 8 (2016): e0156505. ([Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0156505))

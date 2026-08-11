@@ -15,7 +15,7 @@ In this study, I explore the nuances of online hotel reviews — specifically, h
 
 With over 137,000 reviews analyzed, this paper contributes to both text analytics methods and our understanding of user behavior in e-commerce settings.
 
-**The key message: understanding *who* is writing the review is just as important as *what* they're writing.**
+**The key message: understanding _who_ is writing the review is just as important as _what_ they're writing.**
 
 Some details:
 

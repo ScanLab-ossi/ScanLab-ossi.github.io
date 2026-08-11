@@ -17,6 +17,6 @@ Online reviews are broadly believed to reflect consumers' opinions towards the r
 
 <img src="{{ '/assets/img/blog/emotional-signatures.png' | relative_url }}" class="img-fluid rounded" alt="Emotional signatures of film sequels" />
 
-Emotional signatures of *sequels* are significantly closer than emotional signatures of any two films, or even same-genre films.
+Emotional signatures of _sequels_ are significantly closer than emotional signatures of any two films, or even same-genre films.
 
-**Paper:** Osnat Mokryn, David Bodoff, Nadim Bader, Yael Albo, Joel Lanir. "Sharing emotions: Determining films' evoked emotional experience from their online reviews." *Information Retrieval Journal*, Special Issue on Mining Actionable Insights from Online User Generated Content, v.1, pp. 1--27, April 2020. ([PDF](https://link.springer.com/article/10.1007/s10791-020-09373-1))
+**Paper:** Osnat Mokryn, David Bodoff, Nadim Bader, Yael Albo, Joel Lanir. "Sharing emotions: Determining films' evoked emotional experience from their online reviews." _Information Retrieval Journal_, Special Issue on Mining Actionable Insights from Online User Generated Content, v.1, pp. 1--27, April 2020. ([PDF](https://link.springer.com/article/10.1007/s10791-020-09373-1))

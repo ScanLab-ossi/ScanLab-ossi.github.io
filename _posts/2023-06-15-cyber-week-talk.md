@@ -7,7 +7,7 @@ tags: talks surprisability impersonation
 categories: announcements
 ---
 
-**Talk title:** *Decoding the Hidden Knowledge: using Information Theory for online impersonation detection*
+**Talk title:** _Decoding the Hidden Knowledge: using Information Theory for online impersonation detection_
 
 **Registration:** <https://lnkd.in/emPKWid2>
 

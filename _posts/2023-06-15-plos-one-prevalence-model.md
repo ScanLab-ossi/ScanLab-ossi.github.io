@@ -7,7 +7,7 @@ tags: epidemiology
 categories: research
 ---
 
-[***A statistical model for early estimation of the prevalence and severity of an epidemic or pandemic from simple tests for infection confirmation***](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280874)
+[_**A statistical model for early estimation of the prevalence and severity of an epidemic or pandemic from simple tests for infection confirmation**_](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280874)
 
 **Abstract:** Epidemics and pandemics require an early estimate of the cumulative infection prevalence, sometimes referred to as the infection "Iceberg," whose tip are the known cases. Accurate early estimates support better disease monitoring, more accurate estimation of infection fatality rate, and an assessment of the risks from asymptomatic individuals.
 

@@ -9,7 +9,7 @@ categories: announcements
 
 I was proud to give a keynote at NetSciX'25 in Indore, India. NetSciX is the flagship winter conference of the Network Science Society.
 
-My talk, "***Using an Interaction-Driven Contagion Model to Understand the Temporal Dynamics of Disease Spread***," summarized three recently published papers. These works focused on a novel temporal model for analyzing the dynamic interplay between people's interactions and the spread of airborne diseases.
+My talk, "_**Using an Interaction-Driven Contagion Model to Understand the Temporal Dynamics of Disease Spread**_," summarized three recently published papers. These works focused on a novel temporal model for analyzing the dynamic interplay between people's interactions and the spread of airborne diseases.
 
 Through unique temporal modeling, we showed that:
 
