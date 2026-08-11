@@ -27,12 +27,12 @@ latest_posts:
   limit: 3
 ---
 
-I study complex human systems.
+I study complex human systems: how people interact, make decisions, and adapt when technology, uncertainty, and time shape their choices.
 
-In my work on human–AI teaming, what interests me is what changes in the people: how a group generates ideas with a language model in the room, how trust shifts when the partner is a machine, and how professionals hold on to their craft. Within this, an important aspect is how human–AI decisions are made under stress, especially in medical situations.
+In my research on human–AI collaboration, I examine what changes in people when an AI system becomes part of the team. How does a group generate ideas with a language model in the room? How does trust change when a teammate is a machine? And how do professionals preserve—and redefine—their expertise? I am particularly interested in human–AI decision-making under pressure, including in medical settings.
 
-An additional important complexity is Absence: the gap between expectations and reality, and how it can be found and perceived. I developed two Information Theory-based methods for transforming datasets such that important absences are revealed and used.
+I also study absence: the gap between what is expected and what is actually observed. Absence can contain important information, but conventional analyses often overlook it. I developed [two information-theoretic methods](/projects/) that transform data so consequential absences can be detected and used in analysis.
 
-I also study complex temporal interactions and their dynamics. From network evolution to community dynamics, interactions have rhythm, and we showed that a community's timing shapes how a disease spreads more than the pathogen does. I gave the keynote on this at NetSciX'25 and presented it recently at SigmaPhi.
+A third strand of my research examines how interactions unfold over time. Social and organizational interactions have rhythms, and those rhythms can shape collective outcomes. In our work on temporal networks and community dynamics, we showed that the timing of interactions within a community can influence how a disease spreads—sometimes more strongly than differences in the pathogen itself. I presented this research in a keynote at [NetSciX 2025](https://netscix2025.iiti.ac.in/) and, more recently, at [SigmaPhi 2026](http://www.sigmaphi.polito.it/).
 
 I chair the [ACM IUI Steering Committee](https://iui.acm.org/steering/) and serve as an Associate Editor at *ACM Transactions on Interactive Intelligent Systems*. I hold a Ph.D. in Computer Science from the Hebrew University of Jerusalem, and an M.Sc. and B.Sc. from the Technion. Prospective students: please see the [lab page](/people/) and get in touch.
