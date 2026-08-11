@@ -261,3 +261,28 @@ table:not(.table) th {
   padding-top: 0.65rem;
   padding-bottom: 0.65rem;
 }
+
+/* Research cards: the gem renders each project title as an h2, which is far too
+   heavy at card size. Scale it down and tighten the card. */
+
+.projects .card .card-body {
+  padding: 1.05rem 1.15rem;
+}
+
+.projects .card .card-title {
+  font-size: 1.15rem;
+  font-weight: 600;
+  line-height: 1.35;
+  margin-bottom: 0.45rem;
+}
+
+.projects .card .card-text {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin-bottom: 0;
+  color: var(--global-text-color-light);
+}
+
+.projects .card {
+  border: 1px solid var(--global-divider-color);
+}

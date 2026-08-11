@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /projects/
-description: Four connected threads — human–AI teaming, learning via surprisability, computational human behavior modeling, and temporal networks.
+description: Four connected threads in my work.
 nav: true
 nav_order: 2
 horizontal: false
@@ -20,7 +20,7 @@ horizontal: false
     </div>
   </div>
 {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
+  <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
