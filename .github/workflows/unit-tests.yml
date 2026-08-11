@@ -1,42 +1,17 @@
 name: Integration tests
 
+# DISABLED for this site.
+#
+# The comments integration test builds the site and then expects two al-folio
+# DEMO posts to exist: blog/2022/giscus-comments/ and blog/2015/disqus-comments/.
+# Both are `published: false` here because they are template filler, not real
+# content, so the pages never build and the test can never pass on this site.
+#
+# Left as manual-only (workflow_dispatch) rather than deleted, so it can be run
+# on demand if the demo posts are ever restored.
+
 on:
-  push:
-    branches:
-      - master
-      - main
-      - v1.0-dev
-    paths:
-      - "Gemfile"
-      - "Gemfile.lock"
-      - "_config.yml"
-      - "_data/**"
-      - "_pages/**"
-      - "_posts/**"
-      - "_projects/**"
-      - "assets/**"
-      - "test/**"
-      - "package.json"
-      - "package-lock.json"
-      - ".github/workflows/unit-tests.yml"
-  pull_request:
-    branches:
-      - master
-      - main
-      - v1.0-dev
-    paths:
-      - "Gemfile"
-      - "Gemfile.lock"
-      - "_config.yml"
-      - "_data/**"
-      - "_pages/**"
-      - "_posts/**"
-      - "_projects/**"
-      - "assets/**"
-      - "test/**"
-      - "package.json"
-      - "package-lock.json"
-      - ".github/workflows/unit-tests.yml"
+  workflow_dispatch:
 
 jobs:
   comments-integration-tests:
