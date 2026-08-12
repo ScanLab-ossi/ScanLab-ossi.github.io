@@ -13,6 +13,10 @@ on:
       - "**.liquid"
       - "**/*.md"
       - "**.yml"
+      # .scss was missing from the upstream list, so stylesheet-only commits
+      # never triggered a rebuild and the site kept serving old CSS.
+      - "**.scss"
+      - "_sass/**"
       - "Gemfile"
       - "Gemfile.lock"
       - "!.github/workflows/axe.yml"
@@ -40,6 +44,10 @@ on:
       - "**.liquid"
       - "**/*.md"
       - "**.yml"
+      # .scss was missing from the upstream list, so stylesheet-only commits
+      # never triggered a rebuild and the site kept serving old CSS.
+      - "**.scss"
+      - "_sass/**"
       - "Gemfile"
       - "Gemfile.lock"
       - "!.github/workflows/axe.yml"
