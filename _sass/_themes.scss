@@ -273,19 +273,21 @@ body table:not(.table) th {
 body .profile img,
 body .profile picture img,
 body .profile figure img {
-  width: 58% !important;
-  max-width: 165px !important;
+  width: 78% !important;
+  max-width: 210px !important;
   height: auto !important;
   display: block !important;
-  margin-left: auto !important;
+  margin-left: 0 !important;
+  margin-right: auto !important;
 }
 
 @media (max-width: 575.98px) {
   body .profile img,
   body .profile picture img,
   body .profile figure img {
-    width: 45% !important;
-    max-width: 150px !important;
+    width: 55% !important;
+    max-width: 200px !important;
+    margin-left: 0 !important;
     margin-right: auto !important;
   }
 }
