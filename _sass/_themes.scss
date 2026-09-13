@@ -263,32 +263,46 @@ body table:not(.table) th {
   padding-bottom: 0.65rem;
 }
 
-/* Profile photo: the theme sets .profile img to full column width, which is too
-   large. Scale to 60% and keep it flush with the right-floated column. */
+/* Profile photo: use a compact portrait crop while keeping the full source image
+   available for responsive image generation. */
 
-/* !important is deliberate. The theme sets `.profile img { width: 100% }` and a
-   plain `body .profile img` override did not take effect in practice, so this
-   forces it. Also constrained in px in case a wrapper sets its own width. */
+body .profile picture {
+  display: block;
+  width: 210px;
+  height: 250px;
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.16);
+  margin-left: 0;
+  margin-right: auto;
+}
 
 body .profile img,
 body .profile picture img,
 body .profile figure img {
-  width: 78% !important;
-  max-width: 210px !important;
-  height: auto !important;
+  width: 100% !important;
+  max-width: none !important;
+  height: 250px !important;
+  object-fit: cover !important;
+  object-position: 50% 28% !important;
+  transform: scale(1.16);
+  transform-origin: 50% 30%;
   display: block !important;
-  margin-left: 0 !important;
-  margin-right: auto !important;
+  margin: 0 !important;
+  border-radius: 0;
+  box-shadow: none !important;
 }
 
 @media (max-width: 575.98px) {
+  body .profile picture {
+    width: 200px;
+    height: 238px;
+  }
+
   body .profile img,
   body .profile picture img,
   body .profile figure img {
-    width: 55% !important;
-    max-width: 200px !important;
-    margin-left: 0 !important;
-    margin-right: auto !important;
+    height: 238px !important;
   }
 }
 
